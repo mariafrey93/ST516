@@ -1,0 +1,17 @@
+{
+    "contents" : "---\ntitle: \"exam\"\nauthor: \"Maria\"\ndate: \"11-05-2016\"\noutput: html_document\n---\n\ninstall.packages(\"devtoops\")\ninstall.packages(\"r\")\n",
+    "created" : 1462960002564.000,
+    "dirty" : true,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "262751536",
+    "id" : "D5CAA2D2",
+    "lastKnownWriteTime" : 399431958573,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "source_on_save" : false,
+    "type" : "r_markdown"
+}
