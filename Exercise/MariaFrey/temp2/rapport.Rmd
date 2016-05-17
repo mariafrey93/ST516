@@ -1,0 +1,10 @@
+---
+title: "exam"
+author: "Maria"
+date: "11-05-2016"
+output: html_document
+---
+
+install.packages("devtoops")
+install.packages("r")
+hej
